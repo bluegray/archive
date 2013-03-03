@@ -1,0 +1,3 @@
+[submodule "floatinginspace.za.org"]
+	path = floatinginspace.za.org
+	url = git@github.com:bluegray/floatinginspace.za.org.git
